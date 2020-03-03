@@ -13,8 +13,8 @@ For more detailed instructions, the word document containing the assignment inst
 
 ##  Unit Test
 The following is a unit test with the user input as 9 for the number to search for in the fifth row.
-
-```Original Array: 
+```
+Original Array: 
 
 5 3 2 16 
 9 8 10 17 
@@ -61,4 +61,5 @@ Column containing the number 9
 8
 7
 5
-9```
+9
+```
