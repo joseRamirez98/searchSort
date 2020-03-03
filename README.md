@@ -8,5 +8,5 @@ c)	Reset the array to its original contents. The entire array should again be so
 d)	Reset the array to its original contents. The entire array should again be sorted using insertion sort based on the 5th   row in ascending order and display the entire array
 e)  Ask the user for a number, search for that number in the 5th row of the array that was sorted via insertion sort, using binary search. Display the entire column.
 
-##  Calculation for the moving average.
+##  More Information
 For more detailed instructions, the word document containing the assignment instructions and requirements will be included in the repository.
