@@ -14,13 +14,13 @@ For more detailed instructions, the word document containing the assignment inst
 ##  Unit Test
 The following is a unit test with the user input as 9 for the number to search for in the fifth row.
 
-Original Array: 
+<p>Original Array:</p>
 
-5 3  2 16 
-9 8 10 17 
-4 7 11 18 
-2 5  9 12 
-7 9  4 10 
+<p>5 3  2 16</p>
+<p>9 8 10 17</p> 
+<p>4 7 11 18</p> 
+<p>2 5  9 12</p> 
+<p>7 9  4 10</p> 
 
 First Column Ascending Bubble Sorted Array: 
 
