@@ -46,7 +46,7 @@ The following is a unit test with the user input as 9 for the number to search f
 <p>9 8 10 17</p> 
 <p>4 7 11 18</p> 
 
-<p>Fifth Row Ascending Insertion Sort Array:</p> 
+<p>Fifth Row Ascending Insertion Sorted Array:</p> 
 
 <p>2  5 3 16</p> 
 <p>10 9 8 17</p> 
