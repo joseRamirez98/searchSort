@@ -16,11 +16,11 @@ The following is a unit test with the user input as 9 for the number to search f
 
 <p>Original Array:</p>
 
-<p>5 3  2 16
-   9 8 10 17 
-   4 7 11 18 
-   2 5  9 12
-   7 9  4 10</p> 
+<p>5   3   2   16</p>
+<p>9   8   10  17</p> 
+<p>4   7   11  18</p> 
+<p>2   5   9   12</p>
+<p>7   9   4   10</p> 
 
 <p>First Column Ascending Bubble Sorted Array:<p> 
 
@@ -30,35 +30,35 @@ The following is a unit test with the user input as 9 for the number to search f
 <p>7 9  4 10</p> 
 <p>9 8 10 17</p> 
 
-Second Column Descending Selection Sorted Array:</p> 
+<p>Second Column Descending Selection Sorted Array:</p> 
 
-7 9  4 10</p> 
-9 8 10 17</p> 
-4 7 11 18</p> 
-2 5  9 12</p> 
-5 3  2 16</p> 
+<p>7 9  4 10</p> 
+<p>9 8 10 17</p> 
+<p>4 7 11 18</p> 
+<p>2 5  9 12</p> 
+<p>5 3  2 16</p> 
 
-Third Column Ascending Shell Sorted Array:</p> 
+<p>Third Column Ascending Shell Sorted Array:</p> 
 
-5 3  2 16</p> 
-7 9  4 10</p> 
-2 5  9 12</p> 
-9 8 10 17</p> 
-4 7 11 18</p> 
+<p>5 3  2 16</p> 
+<p>7 9  4 10</p> 
+<p>2 5  9 12</p> 
+<p>9 8 10 17</p> 
+<p>4 7 11 18</p> 
 
-Fifth Row Ascending Insertion Sort Array:</p> 
+<p>Fifth Row Ascending Insertion Sort Array:</p> 
 
-2  5 3 16</p> 
-10 9 8 17</p> 
-11 4 7 18</p> 
-9  2 5 12</p> 
-4  7 9 10</p> 
+<p>2  5 3 16</p> 
+<p>10 9 8 17</p> 
+<p>11 4 7 18</p> 
+<p>9  2 5 12</p> 
+<p>4  7 9 10</p> 
 
-What number are you searching for in the 5th row? 9
+<p>What number are you searching for in the 5th row? 9</p>
 
-Column containing the number 9
-3
-8
-7
-5
-9
+<p>Column containing the number 9</p>
+<p>3</p>
+<p>8</p>
+<p>7</p>
+<p>5</p>
+<p>9</p>
