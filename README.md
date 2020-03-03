@@ -63,3 +63,10 @@ Column containing the number 9
 5
 9
 ```
+## Requirements
+
+Java.
+
+Tested with using Visual Studio Code IDE on Mac OS X 10.14.
+
+Doesn't require any external packages, so it should be platform-agnostic.
